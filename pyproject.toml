@@ -1,5 +1,5 @@
 [project]
-name = "Trajectory"
+name = "WanMove-Trajectory"
 description = "Draw the motion trajectory for wan move"
 version = "1.0.0"
 license = {file = "LICENSE"} 
@@ -22,10 +22,10 @@ license = {file = "LICENSE"}
 
 
 [project.urls]
-Repository = "https://github.com/starsFriday/ComfyUI-Trajectory"
+Repository = "https://github.com/starsFriday/ComfyUI-WanMove-Trajectory"
 #  Used by Comfy Registry https://registry.comfy.org
-Documentation = "https://github.com/starsFriday/ComfyUI-Trajectory/wiki"
-"Bug Tracker" = "https://github.com/starsFriday/ComfyUI-Trajectory/issues"
+Documentation = "https://github.com/starsFriday/ComfyUI-WanMove-Trajectory/wiki"
+"Bug Tracker" = "https://github.com/starsFriday/ComfyUI-WanMove-Trajectory/issues"
 
 [tool.comfy]
 PublisherId = "starsfriday"
