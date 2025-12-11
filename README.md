@@ -16,7 +16,7 @@ https://github.com/user-attachments/assets/d738882e-668b-4f7f-a627-9952148d63b3
 ## Installation
 
 ```
-ComfyUI/custom_nodes/ComfyUI-Trajectory
+ComfyUI/custom_nodes/ComfyUI-WanMove-Trajectory
 ```
 
 Restart ComfyUI and the node will appear under **“🧭 Trajectory”**.
